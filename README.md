@@ -18,9 +18,7 @@
 
 - 👨‍💻 All of my projects are available at [miguel's workspace](http://miguel.traditionalme.life)
 
-- 💬 Ask me about **Java, Python, PHP and NodeJS**
-
-- 📫 How to reach me **miguelnanayakkara01@gmail.com**
+- 💬 Ask me about **Java, Python, PHP, Ruby and NodeJS**
 
 - 📄 Know about my experiences [my experiences](http://miguel.traditionalme.life/#resume)
 
