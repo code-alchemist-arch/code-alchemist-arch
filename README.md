@@ -24,14 +24,6 @@
 
 - ⚡ Fun fact **I think I'm funny**
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/miguelnanayakkara" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="miguelnanayakkara" height="30" width="40" /></a>
-<a href="https://stackoverflow.com/users/9565088/miguel-nanayakkara" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="miguel-nanayakkara" height="30" width="40" /></a>
-<a href="https://fb.com/miguel.nanayakkaraii" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="miguel.nanayakkaraii" height="30" width="40" /></a>
-<a href="https://instagram.com/miguel___lk" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="miguel___lk" height="30" width="40" /></a>
-<a href="https://www.youtube.com/@miguelnanayakkara" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="miguel nanayakkara" height="30" width="40" /></a>
-</p>
 <br>
 <h3 align="left">Languages and Tools:</h3>
 
