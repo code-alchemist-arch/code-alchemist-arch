@@ -71,8 +71,4 @@
 </p>
 <br/>
 
-<h3 align="left">Achievements:</h3>
-
-[![An image of @miguel97's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/miguel97)](https://holopin.io/@miguel97)
-
 <p align="right" > Created with 🧡 by <a href="http://miguel.traditionalme.life">Miguel Alexander</a></p>
