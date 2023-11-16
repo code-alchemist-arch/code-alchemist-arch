@@ -4,8 +4,8 @@
 <h3 align="center">A passionate Web Developer & Problem Solver </h3>
 
 <p align="center"> 
- <img src="https://komarev.com/ghpvc/?username=miguel97&label=Profile%20views&color=0e75b6&style=flat" alt="miguel alexander" /> 
- <img src="https://img.shields.io/badge/Languages-Python | Java | Node | Php | React Web dev -green.svg" alt="miguel alexander's languages" />
+ <img src="https://komarev.com/ghpvc/?username=miguel97&label=Profile%20views&color=0e75b6&style=flat" alt="CodeAlchemist" /> 
+ <img src="https://img.shields.io/badge/Languages-Python | Java | Node | Php | React Web dev -green.svg" alt="CodeAlchemist's languages" />
 </p>
 
 <img align="right" alt="Coding" width="400" src="https://camo.githubusercontent.com/40165a147c3dcea0fa1db780bb533fc5f98546ccfb9d5d05ddb2f429277f5348/68747470733a2f2f616e616c7974696373696e6469616d61672e636f6d2f77702d636f6e74656e742f75706c6f6164732f323031382f31322f646576656c6f7065722d6472696262626c652e676966">
@@ -58,4 +58,4 @@
 </p>
 <br/>
 
-<p align="right" > Created with 🧡 by <a href="http://miguel.traditionalme.life">Miguel Alexander</a></p>
+<p align="right" > Created with 🧡 by <a href="http://miguel.traditionalme.life">CodeAlchemist</a></p>
