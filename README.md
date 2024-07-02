@@ -1,7 +1,7 @@
 <img align="left" src="https://user-images.githubusercontent.com/65187002/144930161-2f783401-8d27-4fdf-a2f7-cc0ba32f1f1f.gif" width="20%" style="display:inline;"><img align="right" src="https://user-images.githubusercontent.com/65187002/144930161-2f783401-8d27-4fdf-a2f7-cc0ba32f1f1f.gif" width="20%" style="display:inline;">
 
 <h1 align="center">Hi 👋, I'm CodeAlchemist</h1>
-<h3 align="center">A passionate Web Developer & Problem Solver </h3>
+<h3 align="center">A passionate Software Engineer & Problem Solver </h3>
 
 <p align="center"> 
  <img src="https://komarev.com/ghpvc/?username=miguel97&label=Profile%20views&color=0e75b6&style=flat" alt="CodeAlchemist" /> 
@@ -10,9 +10,9 @@
 
 <br>
 
-- 🔭 I’m currently working with **Java & Vaadin**
+- 🔭 I have 6+ years experience in **AI & ML**
 
-- 🌱 I’m currently learning **AI & ML**
+- 🌱 I’m currently working with **Java & Vaadin**
 
 - 💬 Ask me about anything related to web development
 
@@ -57,4 +57,4 @@
 </p>
 <br/>
 
-<p align="right" > Created with 🧡 by <a href="http://miguel.traditionalme.life">CodeAlchemist</a></p>
+<p align="right" > Created with 🧡 by CodeAlchemist</a></p>
