@@ -24,7 +24,7 @@
 - AI/ML
 <p align="left">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=pytorch, pycharm, anaconda, tensorflow, opencv, matlab" />
+    <img src="https://skillicons.dev/icons?i=pytorch,pycharm,anaconda,tensorflow,opencv,matlab" />
   </a>
 </p>
 
