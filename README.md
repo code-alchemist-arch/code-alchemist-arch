@@ -21,6 +21,13 @@
 <br>
 <h3 align="left">Languages and Tools:</h3>
 
+- AI/ML
+<p align="left">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=pytorch, pycharm, anaconda, tensorflow, opencv, matlab" />
+  </a>
+</p>
+
 - Backend
 <p align="left">
   <a href="https://skillicons.dev">
